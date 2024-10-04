@@ -24,7 +24,7 @@
   
 ## Installation
 
-It's not hard to install RobuxWIC just [CLick here](https://github.com/marcusa11y/RobloxWIC/releases/) and download the latest release
+It's not hard to install RobuxWIC just [Click here](https://github.com/marcusa11y/RobloxWIC/releases/) and download the latest release
 
 <hr  style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;"  noshade=""  size="20"  width="100%">
   
